@@ -6,7 +6,7 @@ This is a [SvelteKit](https://kit.svelte.dev) template configured for ephemeral 
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-samples/template-sveltekit)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jacobtopp/ivy-2)
 
 ## Get Started With Your Own Project
 
